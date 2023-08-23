@@ -4,4 +4,4 @@
 
 A collection of methods and implementations of CS algorithms on Python with NumPy.
 
-The codework aims to apply compressive sensing (CS) methods and related objects (such as bases) at a low level.
+The codework aims to apply compressive sensing (CS) methods and related objects at a low level. The aim is to have the sourcecode files for understanding the implementation of the mathematical concepts.
